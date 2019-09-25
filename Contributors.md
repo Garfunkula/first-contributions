@@ -7763,6 +7763,7 @@ Stephan Sharpe
 - [Thiago Brasil](https://github.com/tchaguitos)
 - [Marcos Wesley](https://github.com/Marcos314)
 - [Leonardo Pedreira](https://github.com/leopedreira)
+- [Garfunkula](https://github.com/Garfunkula)
 - [Rúben Lopes](https://github.com/benmpl)
 - [Uliana Sirotina](https://github.com/bulliana)
 - [Bryce Hull](https://github.com/bahull)
